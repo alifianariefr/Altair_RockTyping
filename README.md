@@ -11,3 +11,6 @@ He has many projects using Altair for petrophysical analysis <br>
 you can check out his repo on
 
 https://github.com/Philliec459?tab=repositories
+
+
+<img src="Altair Interval Selection.gif" class="center">
