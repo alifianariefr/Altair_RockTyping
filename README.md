@@ -12,5 +12,8 @@ you can check out his repo on
 
 https://github.com/Philliec459?tab=repositories
 
-
+<h3> Selection Based on Interval </h3>
 <img src="Altair Interval Selection.gif" class="center">
+
+<h3> Selection Based on RT Group </h3>
+<img src="Altair Brush Selection.gif" class="center">
